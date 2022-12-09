@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-chromeDriverPath = 'C:\\Users\\szala\\OneDrive\\Asztali gép\\Python\\python-machine-learning\\python-bootcamp\\chapter-26\\chromedriver.exe'
+chromeDriverPath = 'C:\\Users\\szala\\OneDrive\\Asztali gép\\Python\\python-machine-learning\\01_python-bootcamp\\chapter-26\\chromedriver.exe'
 driver = webdriver.Chrome(executable_path=chromeDriverPath)
 
 
