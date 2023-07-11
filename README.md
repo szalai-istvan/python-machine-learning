@@ -9,3 +9,5 @@ https://www.udemy.com/course/python-scientific-x/
 https://www.udemy.com/course/statsml_x/
 
 https://www.udemy.com/course/deeplearning_x/
+
+
